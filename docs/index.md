@@ -1,6 +1,6 @@
 # 香港结婚证样本，制作结婚公证流程多久完成？两地认可合规指南
 在两地跨境生活、买房置业、随迁落户或办理生育登记时，许多在香港注册结婚的夫妻都会遇到一个现实问题：内地相关部门无法直接识别香港登记处签发的纸质证书，往往需要提供香港结婚证样本进行比对，并要求出具一份内地的法定公证文件。
-<img width="733" height="1024" alt="hk-marriage-certificate" src="https://github.com/user-attachments/assets/f9b9ebe8-576b-4914-83d2-8a4a2048724a" />
+<img width="733" height="1024" alt="香港结婚证样本图片" src="https://github.com/user-attachments/assets/f9b9ebe8-576b-4914-83d2-8a4a2048724a" />
 
 那么，内地办事究竟需要怎样的香港结婚证样本？由中国委托公证人制作结婚公证流程多久完成？本文为您带来官方合规的全面解读与全流程指南。
 
