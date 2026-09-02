@@ -1,9 +1,3 @@
-site_name: 我的个人文章
+site_name: 港结婚证样本，制作结婚公证流程多久完成？两地认可合规指南
 theme:
   name: material
-  
-# 强制覆盖首页标题，让浏览器标签页显示你的长标题
-plugins:
-  - search
-extra:
-  homepage_title: 香港结婚证样本，制作结婚公证流程多久完成？两地认可合规指南
